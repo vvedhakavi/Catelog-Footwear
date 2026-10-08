@@ -1,0 +1,1003 @@
+{
+  "seller": {
+    "id": "SELLER-FOOTWEAR-001",
+    "name": "UrbanStep Footwear",
+    "category": "Footwear",
+    "catalogVersion": "1.0"
+  },
+  "categories": [
+    "Footwear",
+    "Running Shoes",
+    "Walking Shoes",
+    "Casual Sneakers",
+    "Formal Shoes",
+    "Flats",
+    "Sports Shoes",
+    "Sandals",
+    "Heels",
+    "Kids Footwear",
+    "Slip-On Shoes"
+  ],
+  "products": [
+    {
+      "id": "FTW-001",
+      "sku": "RUN-MEN-001",
+      "name": "UrbanStep Men's Running Shoes",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Running Shoes",
+      "price": 2499,
+      "originalPrice": 3299,
+      "discountPercentage": 24,
+      "currency": "INR",
+      "stock": 35,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable running shoes designed for everyday use.",
+      "description": "UrbanStep Men's Running Shoes combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-001-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-001-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-001-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-001-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-001-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-001-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Running Shoes",
+        "TargetAudience": "Men",
+        "Material": "Mesh",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Lace-Up",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Black/White",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Men's Running Shoes - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Men's Running Shoes",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-002",
+      "sku": "WALK-WOM-002",
+      "name": "UrbanStep Women's Walking Shoes",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Walking Shoes",
+      "price": 2199,
+      "originalPrice": 2999,
+      "discountPercentage": 27,
+      "currency": "INR",
+      "stock": 42,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable walking shoes designed for everyday use.",
+      "description": "UrbanStep Women's Walking Shoes combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-002-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-002-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-002-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-002-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-002-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-002-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Walking Shoes",
+        "TargetAudience": "Women",
+        "Material": "Mesh",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Lace-Up",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Pink/White",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Women's Walking Shoes - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Women's Walking Shoes",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-003",
+      "sku": "SNE-CAS-003",
+      "name": "UrbanStep Casual Sneakers",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Casual Sneakers",
+      "price": 1999,
+      "originalPrice": 2799,
+      "discountPercentage": 29,
+      "currency": "INR",
+      "stock": 30,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable casual sneakers designed for everyday use.",
+      "description": "UrbanStep Casual Sneakers combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-003-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-003-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-003-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-003-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-003-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-003-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Casual Sneakers",
+        "TargetAudience": "Unisex",
+        "Material": "Synthetic",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Lace-Up",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "White/Black",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Casual Sneakers - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Casual Sneakers",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Unisex",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-004",
+      "sku": "FOR-MEN-004",
+      "name": "UrbanStep Men's Formal Shoes",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Formal Shoes",
+      "price": 2899,
+      "originalPrice": 3699,
+      "discountPercentage": 22,
+      "currency": "INR",
+      "stock": 24,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable formal shoes designed for everyday use.",
+      "description": "UrbanStep Men's Formal Shoes combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-004-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-004-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-004-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-004-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-004-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-004-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Formal Shoes",
+        "TargetAudience": "Men",
+        "Material": "Synthetic Leather",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Lace-Up",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Black",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Men's Formal Shoes - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Men's Formal Shoes",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-005",
+      "sku": "BAL-WOM-005",
+      "name": "UrbanStep Women's Ballet Flats",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Flats",
+      "price": 1499,
+      "originalPrice": 1999,
+      "discountPercentage": 25,
+      "currency": "INR",
+      "stock": 38,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable flats designed for everyday use.",
+      "description": "UrbanStep Women's Ballet Flats combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-005-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-005-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-005-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-005-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-005-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-005-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Flats",
+        "TargetAudience": "Women",
+        "Material": "Synthetic",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Slip-On",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Beige",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Women's Ballet Flats - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Women's Ballet Flats",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-006",
+      "sku": "TRN-UNI-006",
+      "name": "UrbanStep Sports Training Shoes",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Sports Shoes",
+      "price": 2699,
+      "originalPrice": 3499,
+      "discountPercentage": 23,
+      "currency": "INR",
+      "stock": 28,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable sports shoes designed for everyday use.",
+      "description": "UrbanStep Sports Training Shoes combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-006-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-006-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-006-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-006-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-006-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-006-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Sports Shoes",
+        "TargetAudience": "Unisex",
+        "Material": "Mesh",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Lace-Up",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Grey/Blue",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Sports Training Shoes - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Sports Training Shoes",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Unisex",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-007",
+      "sku": "SAN-MEN-007",
+      "name": "UrbanStep Men's Sandals",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Sandals",
+      "price": 1299,
+      "originalPrice": 1799,
+      "discountPercentage": 28,
+      "currency": "INR",
+      "stock": 45,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable sandals designed for everyday use.",
+      "description": "UrbanStep Men's Sandals combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-007-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-007-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-007-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-007-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-007-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-007-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Sandals",
+        "TargetAudience": "Men",
+        "Material": "Synthetic",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Slip-On",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Brown",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Men's Sandals - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Men's Sandals",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Men",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-008",
+      "sku": "HEL-WOM-008",
+      "name": "UrbanStep Women's Heels",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Heels",
+      "price": 1799,
+      "originalPrice": 2499,
+      "discountPercentage": 28,
+      "currency": "INR",
+      "stock": 22,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable heels designed for everyday use.",
+      "description": "UrbanStep Women's Heels combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-008-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-008-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-008-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-008-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-008-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-008-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Heels",
+        "TargetAudience": "Women",
+        "Material": "Synthetic",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Slip-On",
+        "ToeShape": "Round Toe",
+        "HeelType": "Block Heel",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Black",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Women's Heels - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Women's Heels",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Women",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-009",
+      "sku": "KID-SNE-009",
+      "name": "UrbanStep Kids Velcro Sneakers",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Kids Footwear",
+      "price": 999,
+      "originalPrice": 1399,
+      "discountPercentage": 29,
+      "currency": "INR",
+      "stock": 50,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable kids footwear designed for everyday use.",
+      "description": "UrbanStep Kids Velcro Sneakers combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-009-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-009-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-009-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-009-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-009-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-009-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Kids Footwear",
+        "TargetAudience": "Kids",
+        "Material": "Mesh",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Lace-Up",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Blue/White",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Kids Velcro Sneakers - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Kids Velcro Sneakers",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Kids",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    },
+    {
+      "id": "FTW-010",
+      "sku": "SLP-UNI-010",
+      "name": "UrbanStep Unisex Slip-On Shoes",
+      "brand": "UrbanStep",
+      "category": "Footwear",
+      "subCategory": "Slip-On Shoes",
+      "price": 1699,
+      "originalPrice": 2299,
+      "discountPercentage": 26,
+      "currency": "INR",
+      "stock": 32,
+      "availability": "In Stock",
+      "shortDescription": "Comfortable slip-on shoes designed for everyday use.",
+      "description": "UrbanStep Unisex Slip-On Shoes combines comfort, practical design and durable construction.",
+      "image": "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-010-1.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-010-1.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-010-2.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-010-3.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-010-4.jpg",
+        "https://raw.githubusercontent.com/vvedhakavi/seller-01-footwear/main/images/footwear-010-5.jpg"
+      ],
+      "specifications": {
+        "FootwearType": "Slip-On Shoes",
+        "TargetAudience": "Unisex",
+        "Material": "Canvas",
+        "SoleMaterial": "Rubber",
+        "ClosureType": "Slip-On",
+        "ToeShape": "Round Toe",
+        "HeelType": "Flat",
+        "WaterResistance": "Water Resistant",
+        "Cushioning": "Comfort Foam",
+        "SoleType": "Non-Marking",
+        "CareInstructions": "Wipe with a clean dry cloth and air dry"
+      },
+      "sizes": {
+        "available": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "sizeSystem": "UK",
+        "fit": "Regular Fit"
+      },
+      "colorVariants": [
+        "Navy",
+        "White",
+        "Grey"
+      ],
+      "dimensions": {
+        "PackageLength": "34 cm",
+        "PackageWidth": "22 cm",
+        "PackageHeight": "13 cm",
+        "PackageWeight": "0.9 kg"
+      },
+      "manufacturerInformation": {
+        "Manufacturer": "UrbanStep Footwear Manufacturing",
+        "Brand": "UrbanStep",
+        "CountryOfOrigin": "India",
+        "ManufacturedBy": "UrbanStep Footwear Manufacturing",
+        "Importer": "Not Applicable"
+      },
+      "warranty": {
+        "WarrantyPeriod": "6 Months",
+        "WarrantyType": "Manufacturer Warranty",
+        "WarrantyCoverage": "Manufacturing defects",
+        "ServiceType": "Seller service"
+      },
+      "boxContents": [
+        "UrbanStep Unisex Slip-On Shoes - 1 Pair",
+        "Product Packaging",
+        "Care Instructions",
+        "Warranty Card"
+      ],
+      "itemDetails": {
+        "ItemType": "Footwear",
+        "ModelName": "UrbanStep Unisex Slip-On Shoes",
+        "ProductCondition": "New",
+        "CountryOfOrigin": "India",
+        "Gender": "Unisex",
+        "Occasion": [
+          "Casual",
+          "Everyday"
+        ],
+        "Season": [
+          "All Season"
+        ]
+      },
+      "sellerInformation": {
+        "sellerId": "SELLER-FOOTWEAR-001",
+        "sellerName": "UrbanStep Footwear",
+        "sellerRating": 4.5
+      }
+    }
+  ]
+}
