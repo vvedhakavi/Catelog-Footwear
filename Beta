@@ -115,6 +115,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.6,
+      "reviewCount": 128,
+      "countryOfOrigin": "India",
+      "region": "Tamil Nadu",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 24,
+        "customerRating": 4.6,
+        "country": "India",
+        "region": "Tamil Nadu",
+        "brand": "UrbanStep",
+        "subcategory": "Running Shoes",
+        "gender": "Men",
+        "color": [
+          "Black/White",
+          "White",
+          "Grey"
+        ],
+        "material": "Mesh",
+        "availability": "In Stock"
       }
     },
     {
@@ -213,6 +241,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.4,
+      "reviewCount": 94,
+      "countryOfOrigin": "India",
+      "region": "Kerala",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 27,
+        "customerRating": 4.4,
+        "country": "India",
+        "region": "Kerala",
+        "brand": "UrbanStep",
+        "subcategory": "Walking Shoes",
+        "gender": "Women",
+        "color": [
+          "Pink/White",
+          "White",
+          "Grey"
+        ],
+        "material": "Mesh",
+        "availability": "In Stock"
       }
     },
     {
@@ -311,6 +367,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.5,
+      "reviewCount": 76,
+      "countryOfOrigin": "India",
+      "region": "Karnataka",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 29,
+        "customerRating": 4.5,
+        "country": "India",
+        "region": "Karnataka",
+        "brand": "UrbanStep",
+        "subcategory": "Casual Sneakers",
+        "gender": "Unisex",
+        "color": [
+          "White/Black",
+          "White",
+          "Grey"
+        ],
+        "material": "Synthetic",
+        "availability": "In Stock"
       }
     },
     {
@@ -409,6 +493,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.7,
+      "reviewCount": 152,
+      "countryOfOrigin": "India",
+      "region": "Maharashtra",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 22,
+        "customerRating": 4.7,
+        "country": "India",
+        "region": "Maharashtra",
+        "brand": "UrbanStep",
+        "subcategory": "Formal Shoes",
+        "gender": "Men",
+        "color": [
+          "Black",
+          "White",
+          "Grey"
+        ],
+        "material": "Synthetic Leather",
+        "availability": "In Stock"
       }
     },
     {
@@ -507,6 +619,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.3,
+      "reviewCount": 63,
+      "countryOfOrigin": "India",
+      "region": "Delhi",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 25,
+        "customerRating": 4.3,
+        "country": "India",
+        "region": "Delhi",
+        "brand": "UrbanStep",
+        "subcategory": "Flats",
+        "gender": "Women",
+        "color": [
+          "Beige",
+          "White",
+          "Grey"
+        ],
+        "material": "Synthetic",
+        "availability": "In Stock"
       }
     },
     {
@@ -605,6 +745,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.6,
+      "reviewCount": 118,
+      "countryOfOrigin": "India",
+      "region": "Telangana",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 23,
+        "customerRating": 4.6,
+        "country": "India",
+        "region": "Telangana",
+        "brand": "UrbanStep",
+        "subcategory": "Sports Shoes",
+        "gender": "Unisex",
+        "color": [
+          "Grey/Blue",
+          "White",
+          "Grey"
+        ],
+        "material": "Mesh",
+        "availability": "In Stock"
       }
     },
     {
@@ -703,6 +871,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.2,
+      "reviewCount": 47,
+      "countryOfOrigin": "India",
+      "region": "Gujarat",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 28,
+        "customerRating": 4.2,
+        "country": "India",
+        "region": "Gujarat",
+        "brand": "UrbanStep",
+        "subcategory": "Sandals",
+        "gender": "Men",
+        "color": [
+          "Brown",
+          "White",
+          "Grey"
+        ],
+        "material": "Synthetic",
+        "availability": "In Stock"
       }
     },
     {
@@ -801,6 +997,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.5,
+      "reviewCount": 85,
+      "countryOfOrigin": "India",
+      "region": "West Bengal",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 28,
+        "customerRating": 4.5,
+        "country": "India",
+        "region": "West Bengal",
+        "brand": "UrbanStep",
+        "subcategory": "Heels",
+        "gender": "Women",
+        "color": [
+          "Black",
+          "White",
+          "Grey"
+        ],
+        "material": "Synthetic",
+        "availability": "In Stock"
       }
     },
     {
@@ -899,6 +1123,34 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.4,
+      "reviewCount": 56,
+      "countryOfOrigin": "India",
+      "region": "Rajasthan",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 29,
+        "customerRating": 4.4,
+        "country": "India",
+        "region": "Rajasthan",
+        "brand": "UrbanStep",
+        "subcategory": "Kids Footwear",
+        "gender": "Kids",
+        "color": [
+          "Blue/White",
+          "White",
+          "Grey"
+        ],
+        "material": "Mesh",
+        "availability": "In Stock"
       }
     },
     {
@@ -997,7 +1249,126 @@
         "sellerId": "SELLER-FOOTWEAR-001",
         "sellerName": "UrbanStep Footwear",
         "sellerRating": 4.5
+      },
+      "customerRating": 4.6,
+      "reviewCount": 101,
+      "countryOfOrigin": "India",
+      "region": "Andhra Pradesh",
+      "filterAttributes": {
+        "size": [
+          "UK 5",
+          "UK 6",
+          "UK 7",
+          "UK 8",
+          "UK 9",
+          "UK 10"
+        ],
+        "discountPercentage": 26,
+        "customerRating": 4.6,
+        "country": "India",
+        "region": "Andhra Pradesh",
+        "brand": "UrbanStep",
+        "subcategory": "Slip-On Shoes",
+        "gender": "Unisex",
+        "color": [
+          "Navy",
+          "White",
+          "Grey"
+        ],
+        "material": "Canvas",
+        "availability": "In Stock"
       }
     }
-  ]
+  ],
+  "filters": {
+    "category": {
+      "type": "multi-select",
+      "source": "products.category",
+      "label": "Category"
+    },
+    "subcategory": {
+      "type": "multi-select",
+      "source": "products.subCategory",
+      "label": "Subcategory"
+    },
+    "size": {
+      "type": "multi-select",
+      "source": "products.sizes.available",
+      "label": "Size"
+    },
+    "price": {
+      "type": "range",
+      "source": "products.price",
+      "label": "Price"
+    },
+    "discount": {
+      "type": "multi-select",
+      "source": "products.discountPercentage",
+      "label": "Discount",
+      "options": [
+        {
+          "label": "10% and above",
+          "min": 10
+        },
+        {
+          "label": "20% and above",
+          "min": 20
+        },
+        {
+          "label": "30% and above",
+          "min": 30
+        }
+      ]
+    },
+    "customerRating": {
+      "type": "multi-select",
+      "source": "products.customerRating",
+      "label": "Customer Rating",
+      "options": [
+        {
+          "label": "4★ & above",
+          "min": 4
+        },
+        {
+          "label": "3★ & above",
+          "min": 3
+        }
+      ]
+    },
+    "brand": {
+      "type": "multi-select",
+      "source": "products.brand",
+      "label": "Brand"
+    },
+    "gender": {
+      "type": "multi-select",
+      "source": "products.itemDetails.Gender",
+      "label": "Gender"
+    },
+    "country": {
+      "type": "multi-select",
+      "source": "products.countryOfOrigin",
+      "label": "Country"
+    },
+    "region": {
+      "type": "multi-select",
+      "source": "products.region",
+      "label": "Region"
+    },
+    "color": {
+      "type": "multi-select",
+      "source": "products.colorVariants",
+      "label": "Color"
+    },
+    "material": {
+      "type": "multi-select",
+      "source": "products.specifications.Material",
+      "label": "Material"
+    },
+    "availability": {
+      "type": "multi-select",
+      "source": "products.availability",
+      "label": "Availability"
+    }
+  }
 }
